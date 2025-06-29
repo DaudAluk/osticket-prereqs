@@ -21,6 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+![image](https://github.com/user-attachments/assets/df3235e7-a9f2-4e96-a626-51b4e476d843)
 
 - Item 1
 - Item 2
