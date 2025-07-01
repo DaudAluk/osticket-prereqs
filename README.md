@@ -35,10 +35,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-1. Create a Resource Group, ensuring all corresponding resources are stored in one group 
-2. Now start to create a [Windows 10, 4 vCPUs] Virtual Machine (VM) under the same Resource Group
-3. Set a desired VM Name, Username & Password
-4. Create VM
+  
+* Create a Resource Group, ensuring all corresponding resources are stored in one group
+* Now start to create a [Windows 10, 4 vCPUs] Virtual Machine (VM) under the same Resource Group
+* Set a desired VM Name, Username & Password
+* Create VM
 
 </p>
 <br />
@@ -49,16 +50,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://github.com/user-attachments/assets/4c1d0045-f435-4d8f-9a89-16b781584125"/>
 
-1. Once VM has been deployed and created, copy the Public IP Address
-2. Open Remote Desktop
-3. Use the copied IP Address and VM login credentials created to log in
+* Once VM has been deployed and created, copy the Public IP Address
+* Open Remote Desktop
+* Use the copied IP Address and VM login credentials created to log in
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3><strong> Install osTicket on VM </strong></h3>
+<img src="https://github.com/user-attachments/assets/9abd9d4f-f7e8-4656-a3c7-b03f9433c645"/>
+<img src="https://github.com/user-attachments/assets/6a52b3da-84d3-4295-b623-0396de8b2876"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+* When logged in to the VM, open the Internet Browser
+* Open this link (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+* Download the osTicket Installation zip folder
+* Extract the zip folder to reveal "osTicket-Installation-Files"
 </p>
 <br />
