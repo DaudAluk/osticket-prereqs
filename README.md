@@ -126,6 +126,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 * Extract all the contents into the "C:\PHP" folder 
 
 
+<h3><strong> Install VC Redistributable </strong></h3>
+
+<img src="https://github.com/user-attachments/assets/18f6c7a8-47e5-4c0a-962d-ad4145cba62a"/>
+<img src="https://github.com/user-attachments/assets/55ed6ae3-e36b-4a42-ac28-9503afc43e3f"/>
+
+* Open the "osTicket-Installation-Files" folder
+* Locate "VC_redist.x86" and open
+* Follow installation guidelines 
+
+
+<h3><strong> Install My SQL </strong></h3>
+
+<img src="https://github.com/user-attachments/assets/55db00d6-1dd6-4c53-87fa-e4314f50c709"/>
+<img src="https://github.com/user-attachments/assets/691bf54a-8278-47b5-a70c-dc704a53a748"/>
+<img src="https://github.com/user-attachments/assets/6ef2b65a-47da-4bf3-aa86-60d38a6421c2"/>
+<img src="https://github.com/user-attachments/assets/06d3889b-720e-45af-8e3a-e17bf630af52"/>
+<img src="https://github.com/user-attachments/assets/0c114972-8e7a-4147-ac4c-72c2e3bf52e5"/>
+<img src="https://github.com/user-attachments/assets/8503fa57-84a9-4272-8994-78d9d8598576"/>
+<img src="https://github.com/user-attachments/assets/da5dcb1f-7ab3-4a4f-9a3a-36e46c87e46a"/>
+<img src="https://github.com/user-attachments/assets/b341243e-c0aa-4546-88ee-94abda98f96e"/>
+
+
+
 
 
 
