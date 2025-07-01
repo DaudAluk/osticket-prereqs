@@ -75,9 +75,55 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 * Open Control Panel
 * Programs > Programs and Features
-* Click "Turn on Windows features on or off" 
+* Click "Turn on Windows features on or off"
+* On the list look for "Internet Informatiom Services" and check the box
+* Once checked, expand "Internet Informatiom Services"
+
+<img src="https://github.com/user-attachments/assets/03d2f03e-d697-47af-a992-f29e91356baa"/>
+
+* Locate "World Wide Web Services" and expand
+* Locate "Application Development Features" and expand
+* Locate "CGI" and check the box
+* Once checked, click "OK"
+* Wait for the installation to finish 
+
+<img src="https://github.com/user-attachments/assets/85e1eb40-a734-4c7f-a036-6556fa603ca5"/>
+<img src="https://github.com/user-attachments/assets/05e8fdc5-a4ff-4dce-966a-397398a7aa98"/>
+
+<h3><strong> Install PHP Manager for IIS </strong></h3>
+
+<img src="https://github.com/user-attachments/assets/e943469e-61ae-4e13-9c61-b43d2742fce7"/>
+<img src="https://github.com/user-attachments/assets/de97fb14-7fd5-4d00-80d4-8ac3c836aff1"/>
+
+* Open the "osTicket-Installation-Files" folder
+* Locate "PHPManagerForIIS_V1.5.0" and open
+* Follow the installation guidelines 
+
+<h3><strong> Install Rewrite Module </strong></h3>
+<img src="https://github.com/user-attachments/assets/93aa3458-034f-4e6a-9fc2-389d1447ab72"/>
+<img src="https://github.com/user-attachments/assets/b8ffa187-baba-44cf-b482-90c7b02521d3"/>
+
+* Open the "osTicket-Installation-Files" folder 
+* Locate "rewrite_amd64_en-US" and open 
+* Follow the installation guidelines
+
+<h3><strong> Create directory for PHP on C Drive </strong></h3>
+<img src="https://github.com/user-attachments/assets/bf1a6eb1-1631-4072-b306-eaf74b6f4c9c"/>
+
+* Open File Explorer
+* Locate the C Drive "C:\" 
+* Create a new folder and name it "PHP"
 
 
+<h3><strong> Unzip PHP 7.3.8 into the PHP folder </strong></h3>
+
+<img src="https://github.com/user-attachments/assets/a0375148-dc69-433b-9edb-294127bb0961"/>
+<img src="https://github.com/user-attachments/assets/50e87d22-2b2d-4b11-b6d3-05e53fea2b37"/>
+<img src="https://github.com/user-attachments/assets/3009019b-b084-4139-8a35-9dec9f9ccfdc"/>
+
+* Open the "osTicket-Installation-Files" folder
+* Locate "php-7.3.8-nts-Win32-VC15-x86"
+* Extract all the contents into the "C:\PHP" folder 
 
 
 
