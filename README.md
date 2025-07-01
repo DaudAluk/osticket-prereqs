@@ -69,3 +69,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 * Extract the zip folder to reveal "osTicket-Installation-Files"
 </p>
 <br />
+
+<h3><strong> Install / Enable IIS in Windows with CGI </strong></h3>
+<img src="https://github.com/user-attachments/assets/c47b45f2-3009-4341-bbc7-2feb3009301a"/>
+
+* Open Control Panel
+* Programs > Programs and Features
+* Click "Turn on Windows features on or off" 
+
+
+
+
+
+
+
+
+
+
+
