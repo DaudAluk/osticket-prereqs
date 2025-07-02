@@ -147,6 +147,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/da5dcb1f-7ab3-4a4f-9a3a-36e46c87e46a"/>
 <img src="https://github.com/user-attachments/assets/b341243e-c0aa-4546-88ee-94abda98f96e"/>
 
+* Open the "osTicket-Installation-Files" folder
+* Locate "mysql-5.5.62-win32" and open
+* Follow installation guidelines
+* Once installed, check the "Launch the MySQL Instance Configuration Wizard"
+* Click "Finish"
+* Follow the Configuration Wizard guidelines (Selecting "Standard Configuration" > "Install as a Windows Service" > Create your own password)
+* Execute
+
 
 
 
