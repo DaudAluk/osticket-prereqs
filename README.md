@@ -156,6 +156,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 * Execute
 
 
+<h3><strong> Open IIS as Admin & Register PHP </strong></h3>
+
+![image](https://github.com/user-attachments/assets/66f81e23-fe9e-40ad-bb50-d8cf1d969ded)
+![image](https://github.com/user-attachments/assets/343f63c2-4a29-47d5-bdd9-048813ccf48c)
+![image](https://github.com/user-attachments/assets/67f9032a-59df-497b-9988-9e8d2e8dbd6d)
+![image](https://github.com/user-attachments/assets/835979e5-9c68-4db0-aedd-c6621667af80)
+
+
+
+<h3><strong> Reload IIS </strong></h3>
+
+![image](https://github.com/user-attachments/assets/b1591215-637b-43c1-8e1f-9ff234e9cea4)
+![image](https://github.com/user-attachments/assets/d849e9e0-7809-46a3-9dfc-71efe81d6618)
+![image](https://github.com/user-attachments/assets/085ab46c-2586-4ec8-b615-0be5c17349ab)
+
+
 
 
 
