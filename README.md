@@ -182,6 +182,58 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 * Once stopped, click "Start"
 
 
+<h3><strong> Install osTicket </strong></h3>
+
+![image](https://github.com/user-attachments/assets/6ab66d99-064e-4221-a346-ff352f10b319)
+![image](https://github.com/user-attachments/assets/ba0c1e81-dd38-49c7-8eee-8f9d40175357)
+![image](https://github.com/user-attachments/assets/5b6dd2de-5432-4656-952c-c377c351eb7c)
+![image](https://github.com/user-attachments/assets/456acb89-aa59-4859-9ac3-c242285081f7)
+![image](https://github.com/user-attachments/assets/013cf82e-cd01-43d8-bca4-75a81dc3f30b)
+![image](https://github.com/user-attachments/assets/2fa9f4e7-6eeb-480c-961a-2c9a8dde5035)
+![image](https://github.com/user-attachments/assets/6f01a628-b174-4f22-a285-29a5e5a041c4)
+
+* Open the "osTicket-Installation-Files" folder
+* Locate "osTicket-v1.15.8" zip folder, extract files
+* Open the extracted "osTicket-v1.15.8" folder and leave the window open
+* Open "C:\" in a new window
+* Locate "inetpub" folder and open
+* Locate "wwwroot" folder and open
+* Locate "upload" folder and copy 
+* Open the "osTicket-v1.15.8" window
+* Paste the "upload" folder in "osTicket-v1.15.8" folder
+* Rename "upload" folder and change to "osTicket"
+
+<h3><strong> Reload IIS again </strong></h3>
+
+![image](https://github.com/user-attachments/assets/66f81e23-fe9e-40ad-bb50-d8cf1d969ded)
+![image](https://github.com/user-attachments/assets/d849e9e0-7809-46a3-9dfc-71efe81d6618)
+![image](https://github.com/user-attachments/assets/c464bd26-6844-42be-b9eb-fff16a58bd1f)
+
+* Open Start and Type "IIS"
+* Once "IIS" is located, run as Administrator
+* Under "Connections", locate "osticket-vm" and open
+* Under "Actions", locate "Manager Server"
+* First, click "Stop"
+* Once stopped, click "Start"
+
+<h3><strong> Observe osTicket Extensions </strong></h3>
+
+![image](https://github.com/user-attachments/assets/0d8e163c-d075-4c5f-8ba7-e15b8b8a5639)
+![image](https://github.com/user-attachments/assets/fbcfefd4-ad8a-4543-a9eb-8ba6e66c2422)
+
+* Under "Connections", locate "osticket-vm" and expand
+* Locate "Sites" and expand
+* Locate "Default Web Site" and expand
+* Locate "osTicket" and open
+* Under "Actions", locate "Manager Folder", locate “Browse *:80 (http)" and open
+* Once "http://localhost/osTicket/setup/" webpage opens, observe the extensions
+
+
+  
+
+
+
+
 
 
 
