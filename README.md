@@ -294,9 +294,45 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 * Click "Apply"
 * Click "OK"
 * Click "OK"
-  
 
- ![image](https://github.com/user-attachments/assets/22efba72-3932-4609-a1e4-104ab31f85e7)
+  <h3><strong> Continue osTicket set up </strong></h3>
+
+![image](https://github.com/user-attachments/assets/22efba72-3932-4609-a1e4-104ab31f85e7)
+![image](https://github.com/user-attachments/assets/426dd10a-f807-40a5-b53c-cdbf5fab1dc6)
+![image](https://github.com/user-attachments/assets/7f0ca11a-0c59-45cb-ac3a-63035389adf9)
+![image](https://github.com/user-attachments/assets/81e3187a-ae26-4f46-b611-1a3620609d40)
+![image](https://github.com/user-attachments/assets/cd3bca99-1455-46bb-b270-11e2bdc3d353)
+![image](https://github.com/user-attachments/assets/270b0ef4-f4e1-4202-95bf-713e12783088)
+![image](https://github.com/user-attachments/assets/1636dd11-0ea2-447c-90d4-a9aced5689a1)
+![image](https://github.com/user-attachments/assets/dc575390-2ca7-4d36-afe4-fb5950e7935c)
+![image](https://github.com/user-attachments/assets/2be8d592-a0f2-458a-90ba-e162693b0284)
+![image](https://github.com/user-attachments/assets/04e259a9-7033-470f-a53e-425c377b1ab1)
+![image](https://github.com/user-attachments/assets/41c07881-ab5a-4672-8fb1-8badf1bffa13)
+![image](https://github.com/user-attachments/assets/06b53b7c-0856-45bc-9a11-f4a01b4467ca)
+![image](https://github.com/user-attachments/assets/b4557122-eb77-45c8-9783-8828bba4ba0f)
+![image](https://github.com/user-attachments/assets/965479fe-3789-44c7-a75c-09a294544c6e)
+![image](https://github.com/user-attachments/assets/318aa994-c19b-4299-8598-1b9c0b987102)
+![image](https://github.com/user-attachments/assets/cac81d46-e733-465b-90ea-54da1e766008)
+![image](https://github.com/user-attachments/assets/24404ded-2451-4ced-8715-ecc35d7cd069)
+![image](https://github.com/user-attachments/assets/40fbcf78-058a-4826-9d59-44baabe807ca)
+![image](https://github.com/user-attachments/assets/bf136c12-ccaf-4b84-ba69-a24842399c88)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
