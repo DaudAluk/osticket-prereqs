@@ -330,6 +330,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 * Locate "Unnamed" and right click
 * Locate "Create new" and follow flow to locate "Database"
 * Click "Database"
+* Name database "osTicket" and click "OK"
+* Return to the "osTicket" installer website
+* Complete the rest of the form with the adequate information
+* Click "Install Now"
+* Wait for installation to complete
+
+  *Installation Complete*
+
+
+Help desk login page: 
+[http://localhost/osTicket/scp/login.php]
+
+End Users osTicket URL: 
+[http://localhost/osTicket/]
+
+Clean up
+Delete: 
+C:\inetpub\wwwroot\osTicket\setup
+
+Set Permissions to “Read” only: 
+C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
 
 
 
