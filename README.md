@@ -317,7 +317,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/40fbcf78-058a-4826-9d59-44baabe807ca)
 ![image](https://github.com/user-attachments/assets/bf136c12-ccaf-4b84-ba69-a24842399c88)
 
-
+* Open the "osTicket" installer website in browser [localhost/osTicket/setup/install.php]
+* Click "Continue"
+* Fill both "System Settings" & "Admin User" sections of form with necessary details, ensuring the use of 2 different email addresses
+* Leave the window open
+* Open the "osTicket-Installation-Files" folder
+* Locate "HeidiSQL_12.3.0.6589_Setup" and open
+* Follow installation guidelines
+* Once installed, launch program
+* Once Heidi SQL has opened, locate "New" button and open
+* Input password created and click "Open"
+* Locate "Unnamed" and right click
+* Locate "Create new" and follow flow to locate "Database"
+* Click "Database"
 
 
 
