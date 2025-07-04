@@ -248,6 +248,68 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 * Observe the changes
 
 
+<h3><strong> Rename ost-sampleconfig.ph </strong></h3>
+
+![image](https://github.com/user-attachments/assets/5b6dd2de-5432-4656-952c-c377c351eb7c)
+![image](https://github.com/user-attachments/assets/456acb89-aa59-4859-9ac3-c242285081f7)
+![image](https://github.com/user-attachments/assets/013cf82e-cd01-43d8-bca4-75a81dc3f30b)
+![image](https://github.com/user-attachments/assets/4e5be19a-d140-43fa-bf50-83a50adc3b52)
+![image](https://github.com/user-attachments/assets/37e3e86f-8ad8-4334-bc01-b33724603a0a)
+![image](https://github.com/user-attachments/assets/ed3cbef5-2f1f-4672-be7b-f617e1828956)
+![image](https://github.com/user-attachments/assets/05c4e3e3-71b0-4de9-97a6-03dda7820d20)
+
+* Open "C:\" in a new window
+* Locate "inetpub" folder and open
+* Locate "wwwroot" folder and open
+* Locate "osTicket" folder and open
+* Locate "include" folder and open
+* Locate "ost-sampleconfig.ph" file
+* Rename "ost-sampleconfig.ph" and change to "ost-config.php"
+
+<h3><strong> Assign Permissions </strong></h3>
+
+![image](https://github.com/user-attachments/assets/270fbd57-b7d6-4466-8d31-547b352036fe)
+![image](https://github.com/user-attachments/assets/e50c9f17-13d9-424f-8278-4ccd50d09df3)
+![image](https://github.com/user-attachments/assets/cf627fd3-dc7c-4e01-bd26-399994dbcbb9)
+![image](https://github.com/user-attachments/assets/370bb3f0-75d2-475b-b178-cbf8208cb435)
+![image](https://github.com/user-attachments/assets/8d2e33d6-4c1b-4207-b393-26cd67c6cb21)
+![image](https://github.com/user-attachments/assets/382b17f7-b2ff-45b8-89ca-8f888a6b6b80)
+![image](https://github.com/user-attachments/assets/ba1c7817-de8b-4bd4-a8c7-6930453270a0)
+![image](https://github.com/user-attachments/assets/db181f35-34cd-4a7b-8999-d06d548b36b1)
+![image](https://github.com/user-attachments/assets/28b5720a-fe74-44c7-9dbd-ff92204c811b)
+![image](https://github.com/user-attachments/assets/35cd48bf-33aa-4510-b600-f3ed8fd23c5c)
+![image](https://github.com/user-attachments/assets/b27e312f-eb73-498f-96d5-3db0ae690de2)
+
+* Right click new "ost-config.php" file
+* Click "Properties"
+* Locate "Security" tab and open
+* Locate "Disable inheritance" and click
+* Click "Remove all inherited permissions from this object"
+* Under "Permissions" tab, locate "Add" and open
+* Locate "Select a principal" and open
+* Type "everyone" and click "Check Names"
+* Click "OK"
+* Check "Full control" box
+* Click "OK"
+* Click "Apply"
+* Click "OK"
+* Click "OK"
+  
+
+ ![image](https://github.com/user-attachments/assets/22efba72-3932-4609-a1e4-104ab31f85e7)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
