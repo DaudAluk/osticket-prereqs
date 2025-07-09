@@ -22,11 +22,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Creation of Resource Group and Virtual Machine using Azure
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+* Creation of Azure Resource Group 
+* Creation of Azure Virtual Machine Windows 10, 4 vCPUs
+* Installation & Enablement of IIS in Windows WITH CGI
+* Installation of PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+* Installation the Rewrite Module (rewrite_amd64_en-US.msi)
+* Creation of the directory C:\PHP
+* Download and unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)
+* Download and installation of VC_redist.x86.exe.
+* Download and installation of MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+* Opening IIS as Admin
+* Registering PHP from within IIS
+* Installation of osTicket v1.15.8
+* Reloading IIS 
+* Renaming of ost-config.php
+* Assign Permissions 
+* Setting up osTicket in browser
+* Installation of HeidiSQL
+* Continuation of setting up osTicket in browser
+* Cleaning up 
 
 <h2>Installation Steps</h2>
 
